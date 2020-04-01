@@ -1,3 +1,4 @@
+#!/bin/bash
 check() {
     if [ $1 != 0 ]; then
         echo "NG"
